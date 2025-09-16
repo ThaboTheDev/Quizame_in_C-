@@ -86,4 +86,3 @@ dotnet run
 - Learn file I/O and JSON serialization.
 
 - Understand how to structure small console projects.
-# Quizame_in_C-

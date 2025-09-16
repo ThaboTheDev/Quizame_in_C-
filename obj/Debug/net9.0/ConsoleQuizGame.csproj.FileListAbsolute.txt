@@ -1,0 +1,14 @@
+/home/thabothedev/ConsoleQuizGame/bin/Debug/net9.0/ConsoleQuizGame
+/home/thabothedev/ConsoleQuizGame/bin/Debug/net9.0/ConsoleQuizGame.deps.json
+/home/thabothedev/ConsoleQuizGame/bin/Debug/net9.0/ConsoleQuizGame.runtimeconfig.json
+/home/thabothedev/ConsoleQuizGame/bin/Debug/net9.0/ConsoleQuizGame.dll
+/home/thabothedev/ConsoleQuizGame/bin/Debug/net9.0/ConsoleQuizGame.pdb
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.AssemblyInfoInputs.cache
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.AssemblyInfo.cs
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.csproj.CoreCompileInputs.cache
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.dll
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/refint/ConsoleQuizGame.dll
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.pdb
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ConsoleQuizGame.genruntimeconfig.cache
+/home/thabothedev/ConsoleQuizGame/obj/Debug/net9.0/ref/ConsoleQuizGame.dll

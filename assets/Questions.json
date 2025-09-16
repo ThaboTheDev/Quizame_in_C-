@@ -1,0 +1,27 @@
+[
+  {
+    "Text": "What is the capital of France?",
+    "Options": ["Paris", "Berlin", "Rome"],
+    "CorrectIndex": 0
+  },
+  {
+    "Text": "Which language runs in a web browser?",
+    "Options": ["C#", "JavaScript", "Python"],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "2 + 2 = ?",
+    "Options": ["3", "4", "5"],
+    "CorrectIndex": 1
+  },
+  {
+    "Text": "Which keyword is used to define a method in C#?",
+    "Options": ["function", "def", "void"],
+    "CorrectIndex": 2
+  },
+  {
+    "Text": "Which type represents true/false values in C#?",
+    "Options": ["bool", "boolean", "int"],
+    "CorrectIndex": 0
+  }
+]
